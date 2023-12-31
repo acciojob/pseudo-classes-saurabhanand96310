@@ -10,7 +10,7 @@ p:nth-child(2){
 	color:black;
 }
 p:last-child{
-	color:red;
+	color:(255, 0, 0);
 }
 li {
 	background-color:gray;
@@ -25,7 +25,7 @@ li:last-child{
 	font-size:22px;
 }
 li:nth-child(3){
-	background-color:(255, 0, 0);
+	background-color:pink;
 }
 li:nth-child(2n+1){
 	background-color:rgb(255, 255, 255);
