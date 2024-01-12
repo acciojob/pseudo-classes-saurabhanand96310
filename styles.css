@@ -24,9 +24,9 @@ li:first-child{
 li:last-child{
 	font-size:22px;
 }
-li:nth-child(3){
+.pink{
 	background-color:pink;
 }
 li:nth-child(2n+1){
-	background-color:rgb(255, 255, 255);
+	background-color:white;
 }
