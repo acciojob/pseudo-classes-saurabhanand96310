@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-body:root{
+:root{
 	background-color:rgb(135, 206, 235)
 }
 p:first-child {
@@ -10,7 +10,7 @@ p:nth-child(2){
 	color:black;
 }
 p:last-child{
-	color:rgb(255, 0, 0);
+	color:rgb(0, 0, 0);
 }
 li {
 	background-color:gray;
