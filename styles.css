@@ -10,7 +10,7 @@ p:nth-child(2){
 	color:black;
 }
 p:last-child{
-	color:rgb(0, 0, 0);
+	color:red;
 }
 li {
 	background-color:gray;
